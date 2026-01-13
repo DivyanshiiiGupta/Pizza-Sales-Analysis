@@ -9,21 +9,6 @@ This project demonstrates how to analyze a real-world pizza sales dataset using 
 
 ---
 
-## 📁 Folder Structure
-pizza_sales_Project/
-├── Dashboard/
-│ ├── Dashboard_img/ # Dashboard screenshots
-│ └── Pizza_Sales_Analysis.xlsx # Excel dashboard with KPIs, charts, analysis
-│
-├── Dataset/
-│ └── pizza_sales_dataset.csv # Raw pizza sales data
-│
-├── SQL_Queries/
-│ ├── Pizza_Sales_Queries.docx # SQL solutions with output screenshots
-│ └── pizza_sales_queries.sql # Clean SQL queries file
-
-
----
 
 ## 🔍 Project Goals
 
